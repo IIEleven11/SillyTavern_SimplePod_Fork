@@ -1,3 +1,22 @@
+# SillyTavern SimplePod One-Click Solution
+
+Welcome! This is a beginner-friendly, one-click Docker solution for running [SillyTavern SimplePod Fork](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork) with a powerful, uncensored LLM (Rocinante-12B-v1.1-Q8_0.gguf) and full GPU acceleration.
+
+---
+
+## Features
+
+- **One-click setup**: Pictured walkthrough coming soon
+- **CUDA 12.8** and **PyTorch Nightly 128** for maximum performance.
+- **KoboldCPP**: All LLM layers offloaded to your GPU.
+- **SillyTavern Latest**: Full-featured, easy-to-use web UI.
+- **Uncensored LLM**: Rocinante-12B-v1.1-Q8_0.gguf included.
+- **Works with all NVIDIA cards up to RTXPRO 6000 96GB**.
+- **Beginner-friendly**: No manual installs or configs needed.
+
+---
+
+
 <a name="readme-top"></a>
 
 ![][cover]
