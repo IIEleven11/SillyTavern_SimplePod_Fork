@@ -1,7 +1,17 @@
 # SillyTavern SimplePod One-Click Solution
 
-Welcome! This is a beginner-friendly, one-click Docker solution for running [SillyTavern SimplePod Fork](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork) with a powerful, uncensored LLM (Nevoria70b or Rocinante-12B-v1.1-Q8_0.gguf) and full GPU acceleration.
+Welcome! This is a beginner-friendly, one-click Docker solution for running [SillyTavern SimplePod Fork](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork) with a powerful, uncensored LLM (Nevoria70b or Rocinante-12B-v1.1-Q8_0) and full GPU acceleration.
 
+
+Follow the pictures below.
+
+Just pick the appropriate GPU for the models size.
+
+The 70b model will require the RTX PRO 6000 96gb.
+
+The 12b model can run on 4090's and maybe the 16gb cards.
+
+If you want to use a different model, feel free to place it in the models folder. 
 ---
 
 ## Features
