@@ -1,6 +1,6 @@
 # SillyTavern SimplePod One-Click Solution
 
-Welcome! This is a beginner-friendly, one-click Docker solution for running [SillyTavern SimplePod Fork](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork) with a powerful, uncensored LLM (Rocinante-12B-v1.1-Q8_0.gguf) and full GPU acceleration.
+Welcome! This is a beginner-friendly, one-click Docker solution for running [SillyTavern SimplePod Fork](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork) with a powerful, uncensored LLM (Nevoria70b or Rocinante-12B-v1.1-Q8_0.gguf) and full GPU acceleration.
 
 ---
 
@@ -10,13 +10,30 @@ Welcome! This is a beginner-friendly, one-click Docker solution for running [Sil
 - **CUDA 12.8** and **PyTorch Nightly 128** for maximum performance.
 - **KoboldCPP**: All LLM layers offloaded to your GPU.
 - **SillyTavern Latest**: Full-featured, easy-to-use web UI.
-- **Uncensored LLM**: Rocinante-12B-v1.1-Q8_0.gguf included.
+- **Uncensored LLM**: Nevoria70b or Rocinante-12B-v1.1-Q8_0.gguf included.
 - **Works with all NVIDIA cards up to RTXPRO 6000 96GB**.
 - **Beginner-friendly**: No manual installs or configs needed.
 
 ---
+This links to the 70b Docker template
+https://dash.simplepod.ai/account/explore-templates/50/ref-eleven/rrit_8iY9YZHRoZIu
+Click it and you will see this. Click use template
+![step1](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_1.png)
+
+Now lets filter and grab the Nvidia RTX PRO 6000 Blackwell for its 96gb VRAM and our 70b model
+![step2](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_2.png)
+
+Now click the little shopping cart
+![step3](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_3.png)
+
+Click Run
+![step4](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_4.png)
 
 
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <a name="readme-top"></a>
 
 ![][cover]
