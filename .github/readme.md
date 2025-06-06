@@ -1,5 +1,8 @@
 ![logo](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/Simplepod_-_kolorczarny.png)
+
 # SillyTavern SimplePod One-Click Solution
+
+[Visit Simplepod.AI Here](https://simplepod.ai/ref?user=eleven)
 
 Welcome! This is a beginner-friendly, one-click Docker solution for running [SillyTavern SimplePod Fork](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork) with a powerful, uncensored LLM (Nevoria70b or Rocinante-12B-v1.1-Q8_0) and full GPU acceleration.
 
