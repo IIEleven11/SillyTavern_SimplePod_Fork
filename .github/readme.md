@@ -1,3 +1,4 @@
+![logo]([https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_1.png](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/Simplepod_-_kolorczarny.png))
 # SillyTavern SimplePod One-Click Solution
 
 Welcome! This is a beginner-friendly, one-click Docker solution for running [SillyTavern SimplePod Fork](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork) with a powerful, uncensored LLM (Nevoria70b or Rocinante-12B-v1.1-Q8_0) and full GPU acceleration.
@@ -38,6 +39,12 @@ Now click the little shopping cart
 
 Click Run
 ![step4](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_4.png)
+
+Click the silly tavern port button and enter name and password. Default is "user" and "password
+![step5](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_5.png)
+
+Input the kobold Url. It will be http://0.0.0.0:5001
+![step6](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_6.png)
 
 
 
