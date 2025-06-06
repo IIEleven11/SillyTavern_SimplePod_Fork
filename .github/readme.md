@@ -26,8 +26,8 @@ If you want to use a different model, feel free to place it in the models folder
 - **Beginner-friendly**: No manual installs or configs needed.
 
 ---
-This links to the 70b Docker template
-https://dash.simplepod.ai/account/explore-templates/50/ref-eleven/rrit_8iY9YZHRoZIu
+This links to the 70b Docker template and the 12b template
+[70b](https://dash.simplepod.ai/account/explore-templates/51/ref-eleven/rrit_k8FAUWPkJi3l)
 Click it and you will see this. Click use template
 ![step1](https://github.com/IIEleven11/SillyTavern_SimplePod_Fork/blob/release/step_1.png)
 
